@@ -46,7 +46,7 @@ story_key: "test"
 #    - If running locally: Run `python3 scripts/fetch_google_sheets.py` before building
 google_sheets:
   enabled: true
-  shared_url: "https://docs.google.com/spreadsheets/d/17TifZdAMbcV_P2WpClBC5Oua9sxJ59z-I2FBunwJj94/edit?usp=sharing"
+  shared_url: "https://docs.google.com/spreadsheets/d/17TifZdAMbcV_P2WpClBC5Oua9sxJ59z-I2FBunwJj94/edit"
   published_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR-lmAb20rwNNKrHMg7rL-N5QHiycIvB5ea-zglMU4R5RnmysVmiULl4d21kco-FO23kyO8BEqhl3e4/pubhtml"
 
 
